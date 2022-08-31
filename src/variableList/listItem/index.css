@@ -1,0 +1,9 @@
+.itemContainer {
+    display: flex;
+}
+.itemContainer>div {
+    flex: 1;
+}
+.itemContainer .ant-select {
+    width: 100px;
+}
